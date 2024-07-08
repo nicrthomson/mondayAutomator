@@ -6,3 +6,8 @@ flask-bcrypt
 requests
 python-dotenv
 aiohttp
+anthropic
+
+
+
+
