@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@mondaydotcomorg/api": "^4.0.2",
+    "@mondaydotcomorg/setup-api": "^1.1.1",
+    "axios": "^1.7.2",
+    "express": "^4.19.2",
+    "monday-sdk-js": "^0.5.5",
+    "react-router-dom": "^6.24.1"
+  }
+}
