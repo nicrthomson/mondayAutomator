@@ -1,5 +1,0 @@
-Flask
-Flask-WTF
-playwright
-requests
-python-dotenv
